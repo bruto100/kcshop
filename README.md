@@ -1,2 +1,4 @@
 SKLEP KC REPO
 ======
+
+NIE RUSZAJ TEGO!
