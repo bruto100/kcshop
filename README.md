@@ -1,2 +1,2 @@
-kcshop
+SKLEP KC REPO
 ======
